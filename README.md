@@ -1,2 +1,2 @@
-# Coffee Store
+# Bizaron
 HTML and CSS project
